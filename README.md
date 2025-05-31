@@ -1,0 +1,1 @@
+# Federated-Learning-Based-Naive-Bayes-Model-for-Detecting-Suicide-Decision
